@@ -87,12 +87,5 @@ fonte: https://www.youtube.com/watch?v=FXlAf_iIDeo
     ```
 
 
-
-
-
-
-
-
-
-
-resultado: 
+# Clica no link para ver o resultado
+resultado: https://devosvaldo2020.github.io/projeto-Storage/
