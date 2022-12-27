@@ -32,9 +32,8 @@ fonte: https://www.youtube.com/watch?v=FXlAf_iIDeo
     
     👉 vá para a aba de aplicativos.
     
-    👉 selecionar armazenamento de sessão.
+    👉 selecionar armazenamento de sessão.    
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40d77c80-4121-42f6-b436-2b6686853bb3/Untitled.png)
     
     ## Criar novo registro
     
