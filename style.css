@@ -1,0 +1,23 @@
+
+/* codigo da tela */
+
+/* centralizado e formatado */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;    
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    overflow-y: hidden;
+    background-color: #020e26;
+    color: #fff;
+}
+/* código do projeto */
+
